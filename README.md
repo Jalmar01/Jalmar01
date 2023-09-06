@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jalmar Villarreal</h1>
-<h3 align="center">I'm frontend developer from Ecuador</h3>
+<h3 align="center">I'm Fullstack developer from Ecuador</h3>
 
 - 👨‍💻 All of my projects are available at [https://villarrealjalmar-portafolio.netlify.app/](https://villarrealjalmar-portafolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS,Javascript, ReactJS**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NodeJS, Express, Sequelize, postgresSql**
 
 - 📫 How to reach me **villarrealjalmar@gmail.com**
 
